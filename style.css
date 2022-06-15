@@ -1,0 +1,118 @@
+/* .container{
+    background-image: url(https://www2.d125.org/applied_arts/teched/courses/WEB/portfolios/2014_FallP8/Rami_Portfolio_Period8/unit4_css/project2/cssProject2/grid.png
+    );
+    width:960px;
+    height:780px;
+    padding-top: 20px;
+    margin:auto;
+    background:grey;
+    /* image is centered inside container*/
+ /*   
+}
+ .longbox{
+    width:960px;
+    height:100px;
+
+}
+.box{
+    background: grey;
+    opacity:0.7;
+    float:left;
+}
+.smallbox{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    width: 220px;
+    height: 220px;
+
+}
+.ml-10{
+    margin-left: 10px;
+
+}
+.ml-20{
+    margin-left: 20px;
+}  */
+/* body{
+    background-image: url("https://www2.d125.org/applied_arts/teched/courses/WEB/portfolios/2014_FallP8/Rami_Portfolio_Period8/unit4_css/project_1folder/cssProject1/background.jpg"
+    );
+}
+div{
+    background-color:grey;
+    width:1000px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 20px;
+}
+p{
+    color: aliceblue;
+    font-size: 50px;
+    text-align: center;
+    text-transform: uppercase;
+    margin:0px;
+}
+img{
+    margin-top: 20px;
+    margin-left: 20px;
+    opacity: 0.5;
+    border-radius: 20px;
+}
+img:hover{
+    opacity: 1;
+} */
+/* body{
+    background-image: url("https://www2.d125.org/applied_arts/teched/courses/WEB/portfolios/2014_FallP8/Rami_Portfolio_Period8/unit4_css/project_1folder/cssProject1/background.jpg");
+
+}
+
+div{
+background-color:#444444;
+width:1000px;
+margin:auto;
+padding:20px;
+border-radius:20px;
+}
+
+p{
+color:whitesmoke;
+font-size:50px;
+text-align:center;
+text-transform:uppercase;
+margin:0px;
+}
+img{
+margin-top:20px;
+margin-left:20px;
+opacity:0.5;
+border-radius:20px;
+}
+img:hover{
+opacity:1;
+} */
+body{
+    background-color: aqua;
+}
+div{
+    background-color: lightpink;
+    padding:20px;
+    margin:auto;
+    width:900px;
+    border-radius: 50px;
+    
+}
+p{
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 50px;
+    margin:0px;
+}
+img{
+  width: 250px;
+  margin-left: 20px;
+  margin-top: 20px;
+  opacity:0.7;
+  border-radius:8px ;
+}
+img:hover{
+    opacity:1;
+}
